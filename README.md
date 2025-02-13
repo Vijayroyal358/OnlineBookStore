@@ -24,7 +24,7 @@ Welcome to the **Online Book Store** project! This is a fully functional web app
 - **Backend**: Java Servlets
 - **Database**: MySQL
 - **Styling**: Custom CSS with Font Awesome icons
-- **Build Tool**: Maven (optional, if used)
+- **Build Tool**: Maven
 - **Web Server**: Apache Tomcat
 
 ## Project Structure
