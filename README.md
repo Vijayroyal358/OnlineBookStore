@@ -138,6 +138,30 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **MySQL**: For the database management system.
 - **Apache Tomcat**: For the web server and servlet container.
 
+## Here are the preview images
+![image](https://github.com/user-attachments/assets/f9543369-c377-4f10-b7c2-c043706fbe1d)
+**Login Page**
+![image](https://github.com/user-attachments/assets/032265da-2273-4195-aeab-f1b2f05b4740)
+**Admin Login**
+![image](https://github.com/user-attachments/assets/3469ebb0-8c5b-4abc-aead-39c0d25789ee)
+**Register Page**
+![image](https://github.com/user-attachments/assets/6e0eb8d5-551d-4d65-a193-9605b8b5d599)
+**Main Landing Page**
+![image](https://github.com/user-attachments/assets/2d89dc33-7300-4e14-b22f-984fb3557507)
+**Orders Page**
+![image](https://github.com/user-attachments/assets/99d4401f-ca3e-49bf-830b-51cf1268d229)
+**Cart Page**
+![image](https://github.com/user-attachments/assets/9ea3705a-cf2f-41a4-8cc2-37827c7b5617)
+**Items Added to Cart**
+![image](https://github.com/user-attachments/assets/60d20045-0d0d-4d35-a2a0-5ec90eb6fc25)
+**Review Order Page**
+![image](https://github.com/user-attachments/assets/9e7de312-932e-45ed-ba2c-b527efb81cf4)
+**Checkout Page**
+![image](https://github.com/user-attachments/assets/d91c7c2d-d7ef-44f1-9574-31bc23e50c33)
+**Order Confirmation page**
+![image](https://github.com/user-attachments/assets/3b76265f-bfec-4340-b211-b76bb68d1ce7)
+
 ---
+
 
 Thank you for checking out the **Online Book Store** project! Happy reading! 📚
