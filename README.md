@@ -90,7 +90,7 @@ Welcome to the **Online Book Store** project! This is a fully functional web app
 
 2. **Set Up the Database**:
    - Create a MySQL database named `bookstore`.
-   - Import the provided SQL schema (if available) to create the necessary tables.
+   - Import the provided SQL schema to create the necessary tables.
 
 3. **Configure Database Connection**:
    - Update the `DatabaseConnection.java` file with your MySQL database credentials:
